@@ -1,0 +1,13 @@
+.self-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+@media (max-width: 322px) {
+    footer {
+        position: relative;
+    }
+}
