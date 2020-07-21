@@ -1,6 +1,7 @@
 body {
   background-image: url(../images/blue-wallpaper-2680270.jpg);
   font-family: 'Roboto', sans-serif;
+  padding-bottom: 46px;
 }
 
 .navbar-brand {
@@ -24,7 +25,6 @@ main {
   background-color: rgb(255, 234, 198);
   margin: 20px auto;
   padding: 20px auto;
-  min-height: calc(100vh - 78px - 46px);
 }
 
 p {
@@ -107,5 +107,7 @@ footer {
   background-color: #343a40;
   color: white;
   text-align: center;
-  padding: 5px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
