@@ -111,3 +111,22 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
+#weather, #workday, #trip {
+  width: 400px;
+  height: 200px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+h3 {
+  padding-top: 10px;
+  font-weight: bold;
+}
+
+.showcase {
+  display: block;
+  border: 1px solid black;
+  padding-bottom: 10px;
+  text-align: center;
+}
