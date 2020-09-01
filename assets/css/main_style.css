@@ -23,7 +23,7 @@ body {
 
 .container {
   width: 90vw;
-  background-color: rgb(255, 234, 198);
+  background-color: #AEB7B3;
   margin: 20px auto;
   padding: 20px auto;
 }
@@ -150,4 +150,9 @@ h3 {
 .extra-info {
   margin-top: 10px;
   font-size: 12px;
+}
+
+.link {
+  color: #005C7A;
+  text-decoration: underline;
 }
