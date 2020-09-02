@@ -1,15 +1,26 @@
 # Portfolio
 
-In this Portfolio, I have included 3 main html pages for the content
+This repository was made to showcase some projects that I have worked on during my time at the UT Austin Coding Bootcamp. It contains 3 sections:
+* About Me
+* Portfolio
+* Contact
+
+Here is the link ot the deployed site: https://calebparris.github.io/Portfolio/index.html
 
 ## About Me
 
-This page is a short about me that explains my current situation and my goals moving forward
+This section give a brief description of myself and some of my previous work experience, as well as some of my future goals
+
+![About Me Page](assets/images/About-Me.png)
 
 ## Portfolio
 
-This page currently has a placeholder image of a construction sign as there are no projects to include it this time
+This section showcases some of my finished projects that I have worked on. It also includes links to the respective github page, as well as the deployed website link.
+
+![Portfolio Page](assets/images/Portfolio-Pic.png)
 
 ## Contact
 
-This page includes a form to send an email if you want to contact me.
+This section includes my contact information, as well as links to my Githuib and LinkedIn profiles. There is also a form at the bottom of the page to send me an email directly.
+
+![Contact Page](assets/images/Contact-Me.png)
